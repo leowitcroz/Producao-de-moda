@@ -1,0 +1,247 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo:wght@100&family=Playfair+Display&display=swap");
+
+section {
+  background-color: #08071f;
+ 
+}
+
+.texto-trabalho {
+  padding-top: 10%;
+}
+
+.titulo-1 {
+  font-size: 40px;
+  font-family: "Playfair Display", serif;
+  color: white;
+}
+
+.texto-proposta {
+  font-size: 20px;
+  font-family: "Playfair Display", serif;
+  color: white;
+}
+
+.certo {
+  padding-top: 10%;
+}
+
+.texto-entrevistada {
+  font-size: 20px;
+  font-family: "Playfair Display", serif;
+  color: white;
+}
+
+.titulo-2 {
+  font-size: 40px;
+  font-family: "Playfair Display", serif;
+  color: white;
+}
+.carrosel {
+  padding-top: 5%;
+}
+
+.img-c {
+  width: 50%;
+  height: 27rem;
+  align-items: center;
+  padding: 15px;
+  margin-left: 24%;
+}
+
+.descricao {
+  padding-top: 2%;
+  font-family: "Playfair Display", serif;
+  color: white;
+}
+
+.Sobre {
+  padding-top: 10%;
+}
+
+.titulo-3 {
+  padding-top: 30%;
+  font-size: 40px;
+  font-family: "Playfair Display", serif;
+  color: white;
+}
+
+.texto-sobre {
+  padding-top: 5%;
+  font-size: 20px;
+  font-family: "Playfair Display", serif;
+  color: white;
+}
+
+.foto-perfil {
+  width: 100%;
+  margin-left: 20%;
+}
+
+.inspiracao {
+  padding-top: 15%;
+}
+
+.img-ins {
+  width: 100%;
+  padding-right: 5%;
+}
+
+
+.titulo-4 {
+    font-size: 40px;
+    font-family: "Playfair Display", serif;
+    color: white;
+
+
+
+
+}
+.texto-insp {
+  padding-top: 5%;
+  font-size: 20px;
+  font-family: "Playfair Display", serif;
+  color: white;
+
+}
+
+.cabecalho {
+  padding-top: 20%;
+ 
+}
+
+.titulo {
+  font-size: 40px;
+  font-family: "Playfair Display", serif;
+  color: white;
+}
+
+.nome {
+  font-size: 20px;
+  font-family: "Playfair Display", serif;
+  color: white;
+}
+
+
+.Moda{
+    padding-top: 15%;
+}
+
+.img-moda{
+    width: 100%;
+}
+
+.titulo-5{
+    
+    font-size: 35px;
+    font-family: "Playfair Display", serif;
+    color: white;
+}
+
+.texto-moda{
+    padding-top: 5%;
+    font-size: 18px;
+    font-family: "Playfair Display", serif;
+    color: white;
+
+}
+
+
+.problemas{
+    padding-top: 15%;
+}
+
+.img-problema{
+    width: 100%;
+}
+
+.titulo-6{
+    font-size: 35px;
+    font-family: "Playfair Display", serif;
+    color: white;
+}
+
+.texto{
+    padding-top: 5%;
+  font-size: 20px;
+  font-family: "Playfair Display", serif;
+  color: white;
+}
+
+.objetivo{
+    padding-top: 15%;
+}
+
+.viagem{
+    padding-top: 15%;
+}
+.img-viagem{
+    width: 100%;
+}
+
+.insta{
+    padding-top: 15%;
+}
+.img-insta{
+    width: 100%;
+}
+
+.conceito{
+    padding-top: 15%;
+}
+.img-conceito{
+    width: 100%;
+}
+
+.fotos{
+    padding-top: 15%;
+}
+.img-fto{
+    width: 100%;
+}
+
+.inspiracao2{
+    padding-top: 15%;
+}
+.insp2{
+    width: 100%;
+}
+
+
+
+@media (max-width: 991.98px){
+
+.img-c{
+    width: 100%;
+    margin-left: 0;
+}
+
+.foto-perfil{
+    margin-left: 0;
+}
+
+.img-obj{
+    width: 100%;
+}
+
+.img-ins{
+    padding-right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
